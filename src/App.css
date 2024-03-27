@@ -1,0 +1,86 @@
+.bg {
+  background-color: #f2f2f2;
+  
+}
+.bg1 {
+  background-color: #f2f2f2;
+ 
+}
+input {
+  background-color: #f2f2f2;
+  
+  border-radius: 5px;
+  height: 40px;
+  border: 1px solid gray;
+}
+input:focus {
+  outline: none;
+  border-color: 1px solid gray;
+}
+select {
+  background-color: #f2f2f2;
+  
+  border-radius: 5px;
+  height: 40px;
+  border: 1px solid gray;
+}
+select:focus {
+  outline: none;
+  border-color: 1px solid gray;
+}
+textarea {
+  background-color: #f2f2f2;
+
+  border-radius: 5px;
+
+  border: 1px solid gray;
+}
+textarea:focus {
+  outline: none;
+  border-color: 1px solid gray;
+}
+button {
+  height: 40px;
+  font-size: 18px;
+  background-color: rgb(77, 145, 235);
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
+.form {
+  border-radius: 10px;
+  max-width: 100%;
+
+  box-shadow: 3px 3px 9px #7999a0, -1px -1px 9px #fff !important;
+}
+.table {
+  border-radius: 10px;
+  max-width: 100%;
+  background-color: #f2f2f2 !important;
+  box-shadow: 3px 3px 9px #7999a0, -1px -1px 9px #fff !important;
+}
+th {
+  background-color: #f2f2f2 !important;
+}
+td {
+  background-color: #f2f2f2 !important;
+}
+.outer-form {
+  max-width: 456px;
+}
+nav {
+  background-color: rgb(77, 145, 235);
+}
+.text-area {
+  background-color: #f2f2f2;
+  font-size: bold;
+  font-style: italic;
+  border-radius: 5px;
+
+  border: 1px solid gray;
+}
+.text-area:focus {
+  outline: none;
+  border-color: 1px solid gray;
+  background-color: #f2f2f2;
+}
